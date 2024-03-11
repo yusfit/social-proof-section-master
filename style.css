@@ -10,6 +10,7 @@ body{
     background-position: top left, bottom right;
     background-color: white;
     height: 100vh;
+    margin-bottom: 32px;
 }
 
 .header{
@@ -264,11 +265,10 @@ img{
         font-family:  "League Spartan", sans-serif;
         color: white;
         line-height: 16px;
-        height: 32vh;
         max-width: 100%;
         margin: auto;
         margin-left: 120px;
-        margin-bottom: 100px;
+        margin-bottom: 2rem;
     }
 
     .first-comment{
@@ -297,6 +297,7 @@ img{
         max-width: 100%;
         margin-left: -50px;
         font-size: 11.5px;
+        margin-bottom: 2rem;
     }
 
     
